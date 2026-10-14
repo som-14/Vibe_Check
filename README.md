@@ -10,7 +10,6 @@ Legacy freelance marketplaces (Upwork, Fiverr) treat creative work as static del
 **Vibe_Check** is built from the ground up for the generative AI era. It empowers brands to discover creators with verified tools, evaluate repeatable pipelines (ComfyUI node graphs, LoRAs, seeds), turn rough concepts into structured briefs with an AI agent, and manage production through milestone deliverables.
 
 ---
-
 ## 🚀 Key Features
 
 ### 1. AI Creator Profiles & Workflow Provenance (30% Criteria)
