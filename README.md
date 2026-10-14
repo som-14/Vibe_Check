@@ -3,7 +3,6 @@
 > **AI-native marketplace connecting generative creators and brands with verified workflow provenance, model-specific discovery, and structured creative briefs.**
 
 ---
-
 ## 📌 Executive Summary
 
 Legacy freelance marketplaces (Upwork, Fiverr) treat creative work as static deliverables without understanding AI-native production workflows. Brands face "prompt gambling," non-commercial copyright liabilities, and lack standardized methods to evaluate generative pipelines.
